@@ -39,18 +39,18 @@ http://www.cse.psu.edu/~rtc12/CSE486/lecture13.pdf
 * pytorch3d: https://pytorch3d.org
 * https://pytorch3d.org/tutorials/render_textured_meshes
 * open3d: http://www.open3d.org
-[опционально] * pyrender: https://github.com/mmatl/pyrender
+* [опционально] * pyrender: https://github.com/mmatl/pyrender
 
 5. SMPL: 
-https://www.youtube.com/watch?v=kuBlUyHeV5U
-https://khanhha.github.io/posts/SMPL-model-introduction/ 
+* https://www.youtube.com/watch?v=kuBlUyHeV5U
+* https://khanhha.github.io/posts/SMPL-model-introduction/ 
 
 6. Предсказание 3D-позы: 
-https://github.com/facebookresearch/frankmocap
-[опционально] https://github.com/vchoutas/expose
-[опционально] https://google.github.io/mediapipe/solutions/pose
+* https://github.com/facebookresearch/frankmocap
+* [опционально] https://github.com/vchoutas/expose
+* [опционально] https://google.github.io/mediapipe/solutions/pose
 
 7. Датасеты мешей одежды: 
-https://github.com/bharat-b7/MultiGarmentNetwork
-[опционально] https://github.com/jby1993/BCNet 
-[опционально] https://github.com/aymenmir1/pix2surf "
+* https://github.com/bharat-b7/MultiGarmentNetwork
+* [опционально] https://github.com/jby1993/BCNet 
+* [опционально] https://github.com/aymenmir1/pix2surf "
