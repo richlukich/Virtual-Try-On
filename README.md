@@ -17,4 +17,8 @@
 картинки
 
 
-Результат: ![github] (https://github.com/richlukich/Virtual-Try-On/blob/main/image.gif)
+Результат: 
+
+
+
+![github](https://github.com/richlukich/Virtual-Try-On/blob/main/image.gif)
